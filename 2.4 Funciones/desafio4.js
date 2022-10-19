@@ -7,4 +7,11 @@ function MostrarTablaMultiplicacion(numero) {
     }
 }
 
+// const MostrarTablaMultiplicacion = (numero) => {
+//     for(let i = 1; i <= 10; i++) {
+//         console.log(`El numero ${numero} multiplicado por ${i} es igual a ${numero * i}`);
+//     }
+// };
+
+
 MostrarTablaMultiplicacion(2);

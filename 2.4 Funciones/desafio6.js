@@ -23,5 +23,25 @@ function OperacionMatematica(num1, num2, operacion) {
     operacion(num1, num2);
 }
 
+// const Sumar = (num1, num2) => {
+//     console.log(num1 + num2);
+// };
+
+// const Restar = (num1, num2) => {
+//     console.log(num1 - num2);
+// };
+
+// const Dividir = (num1, num2) => {
+//     console.log(num1 / num2);
+// };
+
+// const Multiplicar = (num1, num2) => {
+//     console.log(num1 * num2);
+// }
+
+// const OperacionMatematica = (num1, num2, operacion) => {
+//     operacion(num1, num2);
+// };
+
 
 OperacionMatematica(10, 2, Dividir);

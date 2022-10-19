@@ -4,4 +4,8 @@ function Saludar(nombre) {
     console.log(`Hola, soy ${nombre}`);
 }
 
+// const Saludar = (nombre) => {
+//     console.log(`Hola, soy ${nombre}`);
+// };
+
 Saludar("Fermin");
